@@ -1,0 +1,4 @@
+-> A simple dice rolling simulator.
+-> It takes the number of players that will be rolling the dice and the number of dices to be rolled as an input.
+-> returns back the numbers obtained by the dices per player.
+-> Simulation ends when the user presses 'N' or 'n'.
