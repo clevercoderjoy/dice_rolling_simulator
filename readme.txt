@@ -2,3 +2,4 @@
 -> It takes the number of players that will be rolling the dice and the number of dices to be rolled as an input.
 -> returns back the numbers obtained by the dices per player.
 -> Simulation ends when the user presses 'N' or 'n'.
+-> use the following link to view a live demo: https://replit.com/@clevercoderjoy/dice-rolling-simulator#main.py?embed=1&output=1
